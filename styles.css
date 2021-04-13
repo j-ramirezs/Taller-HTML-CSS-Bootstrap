@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/chess-board-transparent-background-black-white-concept-vector-chess-board-transparent-background-black-white-concept-124183197.jpg);
+  }
+  
+  h1 {
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    background-color: brown;
+    margin: 20px;
+  }
+  
+  p {
+    text-align: justify;
+    color: white;
+    background-color: gray;
+    padding: 10px;
+  }
+  
+  h3 {
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+  }
+  
+  form {
+    color: white;
+    background-color: gray;
+    padding: 10px;
+  }
+
+  dl {
+    text-align: justify;
+    color: white;
+    background-color: gray;
+    padding: 10px;
+  }
+  
+  #autor {
+    font-weight: bold;
+    text-align: center;
+  }
